@@ -1,4 +1,4 @@
-# wayos_FBM_293
+# wayos_FBM_293 CVE-2024-44455
 
 ## Firmware information
 + Manufacturer's address:[https://www.wayos.com/](https://www.wayos.com/)
